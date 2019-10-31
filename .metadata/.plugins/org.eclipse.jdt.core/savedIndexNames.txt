@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+/home/svon/Documents/GitEclipseWorkspace/.metadata/.plugins/org.eclipse.jdt.core
-34019092.index
