@@ -17,7 +17,7 @@ public class Fish extends Animal{
 	}
 	
 	public void rest() {
-		
+		System.out.println("called Fish.rest()");
 	}
 	
 	public void swim() {
