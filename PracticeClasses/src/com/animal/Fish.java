@@ -25,7 +25,7 @@ public class Fish extends Animal{
 	}
 	
 	private void moveMuscles() {
-		
+		System.out.println("called fish.moveMuscles()");
 	}
 	
 	private void moveBackFin() {
